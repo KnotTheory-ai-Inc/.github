@@ -1,6 +1,6 @@
 # KnotTheory.ai Inc.
 
-### Revolutionizing Industry With Machine Intelligence
+### Propelling Industry With Machine Intelligence
 
 We build **on-device AI applications** that prioritize privacy and offline functionality — no cloud dependency, no data harvesting, no API costs.
 
