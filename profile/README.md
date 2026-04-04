@@ -14,7 +14,7 @@ We build **on-device AI applications** that prioritize privacy and offline funct
 
 **[Tesseract-Claw](https://github.com/KnotTheory-ai-Inc/Tesseract-Claw)** — Swift CLI coding agent for local LLMs. 4-tier tool-calling architecture, vision support, sub-agents, security hardened. MIT licensed.
 
-**Tesseract-Tax** — Tax document management for macOS and iOS supporting 8+ countries. Document scanning, importing, organizing with on-device AI extraction, AI chat, and country-specific tax estimation.
+**[Tesseract-Tax](https://apps.apple.com/app/tesseract-tax/id6760184082)** — Tax document management for macOS and iOS supporting 8+ countries. Document scanning, importing, organizing with on-device AI extraction, AI chat, and country-specific tax estimation. Available on the [App Store](https://apps.apple.com/app/tesseract-tax/id6760184082).
 
 ---
 
