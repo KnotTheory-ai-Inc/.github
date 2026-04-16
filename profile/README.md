@@ -28,7 +28,7 @@ We build **on-device AI applications** that prioritize privacy and offline funct
 
 ### Research
 
-On-device AI, vision-language models, RAG systems, and local LLM tool-calling architectures.
+On-device AI, vision-language models,Knot Theory, Knot Invariant Research, Image computing, Optical-Air Gapped Cipher Schemes, Local LLM tool-calling architectures.
 
 ---
 
